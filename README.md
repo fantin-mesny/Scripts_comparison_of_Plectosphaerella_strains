@@ -1,2 +1,4 @@
-# Scripts_comparison_of_Plectosphaerella_strains
-Comparative analysis of Plectosphaerella strains
+# Comparative analysis of Plectosphaerella strains
+
+
+Scripts will be uploaded soon...
