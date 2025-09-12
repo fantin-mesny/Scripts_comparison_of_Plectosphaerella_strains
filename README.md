@@ -1,0 +1,2 @@
+# Scripts_comparison_of_Plectosphaerella_strains
+Comparative analysis of Plectosphaerella strains
