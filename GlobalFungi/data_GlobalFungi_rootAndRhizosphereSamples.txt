@@ -1,0 +1,145 @@
+id,paper,permanent_id,host,sample_type,latitude,longitude,continent,year_of_sampling_from,year_of_sampling_to,Biome,primers,MAT,MAP,pH,SOC,ITS_total,manipulated,abundances
+173,731,GF01010889S,Centaurea jacea,root + rhizosphere soil,48.3275,13.2339,Europe,2014,2014,grassland,fITS9/ITS4,9.9,775,7,7.5,44307,0,10
+488,731,GF01010892S,Dittrichia graveolens,root + rhizosphere soil,48.5222,13.4575,Europe,2014,2014,grassland,fITS9/ITS4,9.8,790,5.7,17.7,59314,0,1
+1315,731,GF01011152S,Lactuca serriola,root + rhizosphere soil,42.5708,19.2817,Europe,2014,2014,grassland,fITS9/ITS4,10.1,2019,6.4,8.7,38078,0,3
+1667,731,GF01010895S,Lactuca serriola,root + rhizosphere soil,42.565,19.3714,Europe,2014,2014,grassland,fITS9/ITS4,11.7,1839,6.8,8.7,40080,0,1
+2143,731,GF01010897S,Rorippa sylvestris,root + rhizosphere soil,50.3087,8.60943,Europe,2014,2014,grassland,fITS9/ITS4,8.8,822,5.8,15.3,47137,0,9
+5076,644,GF02000012S,Cistanthe longiscapa,root + rhizosphere soil,-27.4676,-70.8394,South America,2016,2016,desert,fITS9/ITS4,16.8,26,8.2,0,161040,0,2401
+7076,731,GF01010904S,?,root + rhizosphere soil,52.0175,5.97667,Europe,2013,2013,grassland,fITS9/ITS4,9.7,887,4.3,21.9,17977,0,31
+7975,731,GF01010913S,Lactuca serriola,root + rhizosphere soil,46.0778,14.9097,Europe,2014,2014,grassland,fITS9/ITS4,9.9,1252,6.1,14.8,24822,0,3
+8662,731,GF01011332S,Dittrichia graveolens,root + rhizosphere soil,50.1108,8.70753,Europe,2014,2014,grassland,fITS9/ITS4,10.5,669,6.9,6.2,11491,0,2
+9408,731,GF01010905S,Dittrichia graveolens,root + rhizosphere soil,52.198,5.83,Europe,2014,2014,grassland,fITS9/ITS4,9.7,895,4.2,24.3,48421,0,1
+9952,731,GF01010917S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,38880,0,23
+10664,731,GF01010912S,Lactuca serriola,root + rhizosphere soil,52.0928,6.16028,Europe,2014,2014,grassland,fITS9/ITS4,10.1,777,5.5,9.3,37422,0,4
+10710,731,GF01010908S,Centaurea stoebe,root + rhizosphere soil,50.1586,8.82167,Europe,2014,2014,grassland,fITS9/ITS4,10.1,768,6.5,6.3,28853,0,1
+12051,731,GF01010935S,?,root + rhizosphere soil,46.2044,14.8092,Europe,2013,2013,grassland,fITS9/ITS4,7.5,1532,5.5,22.2,9951,0,226
+12280,731,GF01011188S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,27746,0,1
+12563,731,GF01010938S,Rorippa sylvestris,root + rhizosphere soil,46.0056,14.7458,Europe,2013,2013,grassland,fITS9/ITS4,9.2,1674,6.1,18,8433,0,36
+14942,731,GF01010960S,Lactuca serriola,root + rhizosphere soil,50.3098,8.59462,Europe,2014,2014,grassland,fITS9/ITS4,8.7,821,5.7,14.1,55127,0,260
+15166,731,GF01010946S,Dittrichia graveolens,root + rhizosphere soil,48.4022,14.4189,Europe,2014,2014,grassland,fITS9/ITS4,8.4,706,5.9,6.8,40087,0,10
+17380,731,GF01011022S,Dittrichia graveolens,root + rhizosphere soil,48.3833,13.6472,Europe,2014,2014,grassland,fITS9/ITS4,9.6,983,6.1,20,28748,0,4
+19427,731,GF01010970S,?,root + rhizosphere soil,52.198,5.83,Europe,2014,2014,grassland,fITS9/ITS4,9.7,895,4.2,24.3,11449,0,14
+19549,731,GF01011314S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,16169,0,1
+19850,731,GF01010959S,Rapistrum rugosum,root + rhizosphere soil,40.7319,23.0086,Europe,2014,2014,grassland,fITS9/ITS4,15.7,511,7.5,3.6,52543,0,53
+20571,731,GF01010982S,Lactuca serriola,root + rhizosphere soil,42.5708,19.2817,Europe,2014,2014,grassland,fITS9/ITS4,10.1,2019,6.4,8.7,16921,0,1
+20719,731,GF01010948S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,37456,0,2
+21683,731,GF01010995S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,17121,0,2
+21905,731,GF01010974S,Rorippa sylvestris,root + rhizosphere soil,48.465,14.4389,Europe,2014,2014,grassland,fITS9/ITS4,8.3,636,5.7,12.7,14661,0,214
+23899,731,GF01011015S,Lactuca serriola,root + rhizosphere soil,51.9353,5.69861,Europe,2014,2014,grassland,fITS9/ITS4,10.2,795,5.5,9.9,16012,0,61
+24182,731,GF01011565S,Centaurea jacea,root + rhizosphere soil,43.3958,19.5494,Europe,2014,2014,grassland,fITS9/ITS4,7.3,1032,6,15.3,29309,0,2
+24186,731,GF01011578S,Centaurea stoebe,root + rhizosphere soil,48.3275,13.2339,Europe,2014,2014,grassland,fITS9/ITS4,9.9,775,7,7.5,5247,0,1
+24188,731,GF01011063S,?,root + rhizosphere soil,40.0072,21.2981,Europe,2013,2013,grassland,fITS9/ITS4,12.4,678,6.8,5.1,25377,0,1
+24189,731,GF01011150S,Rorippa sylvestris,root + rhizosphere soil,42.4283,19.1764,Europe,2014,2014,grassland,fITS9/ITS4,15.3,1896,6.9,8.2,4067,0,1
+24272,731,GF01011019S,Dittrichia graveolens,root + rhizosphere soil,51.7544,5.84493,Europe,2014,2014,grassland,fITS9/ITS4,10.3,771,6.5,8.6,15270,0,1
+24637,731,GF01011026S,Rorippa sylvestris,root + rhizosphere soil,50.3087,8.60943,Europe,2014,2014,grassland,fITS9/ITS4,8.8,822,5.8,15.3,22965,0,7
+24901,731,GF01011368S,Lactuca serriola,root + rhizosphere soil,50.1419,8.06238,Europe,2014,2014,grassland,fITS9/ITS4,8.8,580,6.1,13.9,3863,0,4
+25119,731,GF01011049S,Rorippa sylvestris,root + rhizosphere soil,50.3087,8.60943,Europe,2014,2014,grassland,fITS9/ITS4,8.8,822,5.8,15.3,36326,0,1
+25127,731,GF01011041S,Rorippa austriaca,root + rhizosphere soil,48.3722,14.2911,Europe,2014,2014,grassland,fITS9/ITS4,8.6,719,5.6,14.2,45669,0,1
+25144,731,GF01011043S,Rorippa sylvestris,root + rhizosphere soil,50.3086,8.60457,Europe,2014,2014,grassland,fITS9/ITS4,8.7,814,5.9,15.3,13963,0,4
+25166,731,GF01011051S,Dittrichia graveolens,root + rhizosphere soil,50.1117,8.716,Europe,2014,2014,grassland,fITS9/ITS4,10.5,657,7,6.1,3694,0,8
+25168,731,GF01011045S,Lactuca serriola,root + rhizosphere soil,42.3519,19.25,Europe,2014,2014,grassland,fITS9/ITS4,15.5,1661,6.7,9,12855,0,276
+25191,731,GF01011047S,Dittrichia graveolens,root + rhizosphere soil,42.6969,19.3114,Europe,2014,2014,grassland,fITS9/ITS4,5.9,2506,5.8,17.2,4990,0,4
+26679,731,GF01011071S,Centaurea jacea,root + rhizosphere soil,48.4378,13.3753,Europe,2014,2014,grassland,fITS9/ITS4,10,795,6.6,7.9,7738,0,1
+27713,731,GF01011083S,Rorippa sylvestris,root + rhizosphere soil,48.4958,13.4222,Europe,2014,2014,grassland,fITS9/ITS4,9.7,876,5.7,17.3,9057,0,2
+28018,731,GF01011089S,Dittrichia graveolens,root + rhizosphere soil,42.4644,19.2875,Europe,2014,2014,grassland,fITS9/ITS4,15.1,1497,6.9,7.7,23768,0,1
+28131,731,GF01011093S,Rorippa sylvestris,root + rhizosphere soil,48.465,14.4389,Europe,2014,2014,grassland,fITS9/ITS4,8.3,636,5.7,12.7,7299,0,1
+28144,731,GF01011095S,Rorippa sylvestris,root + rhizosphere soil,48.465,14.4389,Europe,2014,2014,grassland,fITS9/ITS4,8.3,636,5.7,12.7,8252,0,114
+28159,731,GF01011091S,Centaurea stoebe,root + rhizosphere soil,48.2878,13.1769,Europe,2014,2014,grassland,fITS9/ITS4,10,819,6.3,10,11341,0,5
+28168,731,GF01011092S,Dittrichia graveolens,root + rhizosphere soil,46.4247,14.8253,Europe,2014,2014,grassland,fITS9/ITS4,4.2,1600,4.7,24.1,30380,0,9
+28204,731,GF01011096S,Dittrichia graveolens,root + rhizosphere soil,50.1108,8.70753,Europe,2014,2014,grassland,fITS9/ITS4,10.5,669,6.9,6.2,14287,0,4
+28655,731,GF01010994S,Lactuca serriola,root + rhizosphere soil,42.3519,19.25,Europe,2014,2014,grassland,fITS9/ITS4,15.5,1661,6.7,9,10991,0,2
+29006,731,GF01011107S,Rorippa sylvestris,root + rhizosphere soil,42.3786,19.2233,Europe,2014,2014,grassland,fITS9/ITS4,15.4,1684,6.3,9.5,9851,0,7
+29550,731,GF01011110S,Lactuca serriola,root + rhizosphere soil,50.0626,8.38787,Europe,2014,2014,grassland,fITS9/ITS4,10.1,746,7.2,6.7,22306,0,2
+29768,731,GF01011533S,Rorippa sylvestris,root + rhizosphere soil,42.3786,19.2233,Europe,2014,2014,grassland,fITS9/ITS4,15.4,1684,6.3,9.5,8692,0,4
+30460,731,GF01011122S,Dittrichia graveolens,root + rhizosphere soil,42.6172,19.3364,Europe,2014,2014,grassland,fITS9/ITS4,8.2,2501,6.4,18,25307,0,23
+31589,731,GF01011263S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,40710,0,3
+31957,731,GF01011133S,Dittrichia graveolens,root + rhizosphere soil,42.6969,19.3114,Europe,2014,2014,grassland,fITS9/ITS4,5.9,2506,5.8,17.2,8764,0,226
+31958,731,GF01011132S,?,root + rhizosphere soil,45.8456,13.9675,Europe,2013,2013,grassland,fITS9/ITS4,11.1,1459,6.7,9.5,2020,0,1
+32156,731,GF01011198S,Dittrichia graveolens,root + rhizosphere soil,42.6969,19.3114,Europe,2014,2014,grassland,fITS9/ITS4,5.9,2506,5.8,17.2,14715,0,4
+34574,731,GF01011153S,Lactuca serriola,root + rhizosphere soil,46.1708,14.7619,Europe,2014,2014,grassland,fITS9/ITS4,9.7,1264,6.2,9.8,10001,0,17
+34924,731,GF01011154S,Lactuca serriola,root + rhizosphere soil,42.3519,19.25,Europe,2014,2014,grassland,fITS9/ITS4,15.5,1661,6.7,9,10461,0,59
+35247,731,GF01011317S,Rapistrum rugosum,root + rhizosphere soil,45.6503,13.8636,Europe,2014,2014,grassland,fITS9/ITS4,11.6,1386,6.1,9.8,10444,0,4
+35480,731,GF01011161S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,18952,0,1
+36036,731,GF01011170S,Lactuca serriola,root + rhizosphere soil,52.0928,6.16028,Europe,2014,2014,grassland,fITS9/ITS4,10.1,777,5.5,9.3,6542,0,3
+36585,731,GF01011180S,Rorippa sylvestris,root + rhizosphere soil,48.4958,13.4222,Europe,2014,2014,grassland,fITS9/ITS4,9.7,876,5.7,17.3,9859,0,12
+36944,731,GF01010976S,Dittrichia graveolens,root + rhizosphere soil,48.5222,13.4575,Europe,2014,2014,grassland,fITS9/ITS4,9.8,790,5.7,17.7,36315,0,1
+38012,731,GF01011187S,?,root + rhizosphere soil,46.2028,14.6486,Europe,2013,2013,grassland,fITS9/ITS4,9.9,1349,5.4,11.5,10404,0,1
+40493,731,GF01011233S,Lactuca serriola,root + rhizosphere soil,50.0023,8.43798,Europe,2014,2014,grassland,fITS9/ITS4,10.6,635,7,5.8,4214,0,1
+40571,731,GF01011116S,?,root + rhizosphere soil,46.2044,14.8092,Europe,2013,2013,grassland,fITS9/ITS4,7.5,1532,5.5,22.2,5571,0,1032
+41047,731,GF01011240S,?,root + rhizosphere soil,46.2028,14.6486,Europe,2013,2013,grassland,fITS9/ITS4,9.9,1349,5.4,11.5,16733,0,1
+41397,731,GF01011247S,Lactuca serriola,root + rhizosphere soil,52.0586,5.74,Europe,2014,2014,grassland,fITS9/ITS4,10,852,4.7,17.1,7467,0,79
+41532,731,GF01011337S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,8812,0,19
+42854,731,GF01011264S,Lactuca serriola,root + rhizosphere soil,48.4136,14.3736,Europe,2014,2014,grassland,fITS9/ITS4,7.7,733,6.4,13.7,13716,0,3
+42952,731,GF01011569S,Lactuca serriola,root + rhizosphere soil,52.0928,6.16028,Europe,2014,2014,grassland,fITS9/ITS4,10.1,777,5.5,9.3,12159,0,1
+43758,731,GF01011248S,?,root + rhizosphere soil,40.0072,21.2981,Europe,2013,2013,grassland,fITS9/ITS4,12.4,678,6.8,5.1,4468,0,2
+43912,731,GF01011401S,Dittrichia graveolens,root + rhizosphere soil,51.8798,5.73384,Europe,2014,2014,grassland,fITS9/ITS4,10.2,795,6,6.8,11840,0,6
+44034,731,GF01011202S,Rorippa sylvestris,root + rhizosphere soil,48.56,14.3453,Europe,2014,2014,grassland,fITS9/ITS4,7.6,649,5.6,14.3,17666,0,9
+45321,731,GF01011289S,Rorippa sylvestris,root + rhizosphere soil,48.56,14.3453,Europe,2014,2014,grassland,fITS9/ITS4,7.6,649,5.6,14.3,5742,0,26
+45871,731,GF01011146S,Dittrichia graveolens,root + rhizosphere soil,48.5094,13.4478,Europe,2014,2014,grassland,fITS9/ITS4,9.2,859,6.1,16.1,13295,0,2
+46517,731,GF01011301S,Lactuca serriola,root + rhizosphere soil,40.9131,21.8925,Europe,2014,2014,grassland,fITS9/ITS4,7.8,775,6,19.1,9387,0,1
+46577,731,GF01011239S,Rorippa sylvestris,root + rhizosphere soil,48.4958,13.4222,Europe,2014,2014,grassland,fITS9/ITS4,9.7,876,5.7,17.3,6595,0,2
+46759,731,GF01011306S,?,root + rhizosphere soil,46.1856,15.0953,Europe,2013,2013,grassland,fITS9/ITS4,7.3,1612,5.7,25,6978,0,1
+47111,731,GF01010984S,Rorippa sylvestris,root + rhizosphere soil,42.4614,19.5628,Europe,2014,2014,grassland,fITS9/ITS4,13.3,1332,6.7,8.9,12387,0,39
+47985,731,GF01011319S,?,root + rhizosphere soil,45.8633,14.0556,Europe,2013,2013,grassland,fITS9/ITS4,8.7,1659,6,24.9,8555,0,1
+48141,731,GF01011184S,Rorippa sylvestris,root + rhizosphere soil,42.4614,19.5628,Europe,2014,2014,grassland,fITS9/ITS4,13.3,1332,6.7,8.9,29977,0,34
+48825,731,GF01011340S,?,root + rhizosphere soil,46.0056,14.7458,Europe,2013,2013,grassland,fITS9/ITS4,9.2,1674,6.1,18,9876,0,33
+49103,731,GF01011347S,?,root + rhizosphere soil,40.0072,21.2981,Europe,2013,2013,grassland,fITS9/ITS4,12.4,678,6.8,5.1,14501,0,5
+49162,731,GF01011348S,Dittrichia graveolens,root + rhizosphere soil,46.3939,14.7433,Europe,2014,2014,grassland,fITS9/ITS4,4.5,1439,5.1,24.8,9727,0,69
+49284,731,GF01011527S,?,root + rhizosphere soil,45.8456,13.9675,Europe,2013,2013,grassland,fITS9/ITS4,11.1,1459,6.7,9.5,3408,0,20
+49427,731,GF01011355S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,8818,0,1
+49899,731,GF01011369S,?,root + rhizosphere soil,46.0056,14.7458,Europe,2013,2013,grassland,fITS9/ITS4,9.2,1674,6.1,18,3368,0,4
+49901,731,GF01011400S,Rorippa austriaca,root + rhizosphere soil,46.1119,15.6517,Europe,2014,2014,grassland,fITS9/ITS4,11.1,1078,5.6,8.8,21560,0,5
+49902,731,GF01011384S,Dittrichia graveolens,root + rhizosphere soil,42.4644,19.2875,Europe,2014,2014,grassland,fITS9/ITS4,15.1,1497,6.9,7.7,6732,0,27
+49905,731,GF01011365S,Centaurea jacea,root + rhizosphere soil,48.4378,13.3753,Europe,2014,2014,grassland,fITS9/ITS4,10,795,6.6,7.9,4706,0,8
+49907,731,GF01011405S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,11826,0,4
+49912,731,GF01011388S,Rorippa austriaca,root + rhizosphere soil,48.3722,14.2911,Europe,2014,2014,grassland,fITS9/ITS4,8.6,719,5.6,14.2,7991,0,1
+49920,731,GF01011406S,Lactuca serriola,root + rhizosphere soil,42.565,19.3714,Europe,2014,2014,grassland,fITS9/ITS4,11.7,1839,6.8,8.7,1563,0,17
+49923,731,GF01011206S,Rorippa sylvestris,root + rhizosphere soil,50.3098,8.59462,Europe,2014,2014,grassland,fITS9/ITS4,8.7,821,5.7,14.1,2411,0,30
+49933,731,GF01011160S,Centaurea stoebe,root + rhizosphere soil,50.1586,8.82167,Europe,2014,2014,grassland,fITS9/ITS4,10.1,768,6.5,6.3,6303,0,1
+49940,731,GF01011173S,Rapistrum rugosum,root + rhizosphere soil,51.98,4.915,Europe,2014,2014,grassland,fITS9/ITS4,10.3,821,6.2,9.3,14422,0,29
+49941,731,GF01011399S,Rapistrum rugosum,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,5464,0,2
+49945,731,GF01011403S,Lactuca serriola,root + rhizosphere soil,52.0586,5.74,Europe,2014,2014,grassland,fITS9/ITS4,10,852,4.7,17.1,14951,0,15
+49946,731,GF01011333S,Lactuca serriola,root + rhizosphere soil,46.2281,14.7731,Europe,2014,2014,grassland,fITS9/ITS4,8.6,1284,6.1,9.6,10830,0,5
+49950,731,GF01011363S,Lactuca serriola,root + rhizosphere soil,48.4136,14.3736,Europe,2014,2014,grassland,fITS9/ITS4,7.7,733,6.4,13.7,20401,0,8
+52065,731,GF01010933S,Rapistrum rugosum,root + rhizosphere soil,45.5686,13.9836,Europe,2014,2014,grassland,fITS9/ITS4,10.6,1519,6.2,15.5,9677,0,2
+52364,731,GF01011512S,?,root + rhizosphere soil,46.2531,14.9747,Europe,2013,2013,grassland,fITS9/ITS4,10.5,1041,6.5,8,1833,0,3
+52375,731,GF01011429S,Centaurea jacea,root + rhizosphere soil,48.4378,13.3753,Europe,2014,2014,grassland,fITS9/ITS4,10,795,6.6,7.9,5010,0,12
+52377,731,GF01011483S,Rapistrum rugosum,root + rhizosphere soil,40.7319,23.0086,Europe,2014,2014,grassland,fITS9/ITS4,15.7,511,7.5,3.6,192,0,1
+52537,731,GF01011227S,Dittrichia graveolens,root + rhizosphere soil,48.5094,13.4478,Europe,2014,2014,grassland,fITS9/ITS4,9.2,859,6.1,16.1,27616,0,79
+52554,731,GF01011480S,?,root + rhizosphere soil,45.8633,14.0556,Europe,2013,2013,grassland,fITS9/ITS4,8.7,1659,6,24.9,5167,0,2
+52634,731,GF01011449S,Centaurea stoebe,root + rhizosphere soil,46.1208,15.6414,Europe,2014,2014,grassland,fITS9/ITS4,11.1,1035,5.7,7.2,6849,0,1
+52646,731,GF01011504S,?,root + rhizosphere soil,52.0175,5.97667,Europe,2013,2013,grassland,fITS9/ITS4,9.7,887,4.3,21.9,6358,0,1
+52709,731,GF01011084S,Centaurea stoebe,root + rhizosphere soil,50.1419,8.69833,Europe,2014,2014,grassland,fITS9/ITS4,10.1,786,6.4,5.9,18594,0,12
+52798,731,GF01011437S,Lactuca serriola,root + rhizosphere soil,46.2281,14.7731,Europe,2014,2014,grassland,fITS9/ITS4,8.6,1284,6.1,9.6,2259,0,1
+52897,731,GF01011350S,?,root + rhizosphere soil,46.1856,15.0953,Europe,2013,2013,grassland,fITS9/ITS4,7.3,1612,5.7,25,8956,0,2
+52922,731,GF01011445S,Centaurea stoebe,root + rhizosphere soil,50.0287,8.21583,Europe,2014,2014,grassland,fITS9/ITS4,10.7,559,7,7.5,3366,0,1
+52991,731,GF01011473S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,17666,0,6
+53070,731,GF01011564S,Dittrichia graveolens,root + rhizosphere soil,50.1108,8.70753,Europe,2014,2014,grassland,fITS9/ITS4,10.5,669,6.9,6.2,3115,0,1
+53180,731,GF01011509S,Rorippa sylvestris,root + rhizosphere soil,42.4614,19.5628,Europe,2014,2014,grassland,fITS9/ITS4,13.3,1332,6.7,8.9,5689,0,23
+53216,731,GF01011469S,?,root + rhizosphere soil,46.2044,14.8092,Europe,2013,2013,grassland,fITS9/ITS4,7.5,1532,5.5,22.2,4745,0,176
+53219,731,GF01011017S,Centaurea jacea,root + rhizosphere soil,50.1122,8.76743,Europe,2014,2014,grassland,fITS9/ITS4,10.5,645,6.7,4.6,14080,0,1
+53251,731,GF01011426S,Lactuca serriola,root + rhizosphere soil,48.4136,14.3736,Europe,2014,2014,grassland,fITS9/ITS4,7.7,733,6.4,13.7,2559,0,2
+53275,731,GF01011505S,Dittrichia graveolens,root + rhizosphere soil,51.8798,5.73384,Europe,2014,2014,grassland,fITS9/ITS4,10.2,795,6,6.8,23813,0,4
+53276,731,GF01011550S,?,root + rhizosphere soil,52.0175,5.97667,Europe,2013,2013,grassland,fITS9/ITS4,9.7,887,4.3,21.9,2310,0,5
+53420,731,GF01011461S,?,root + rhizosphere soil,46.2531,14.9747,Europe,2013,2013,grassland,fITS9/ITS4,10.5,1041,6.5,8,217,0,2
+53467,731,GF01011541S,Rorippa sylvestris,root + rhizosphere soil,48.56,14.3453,Europe,2014,2014,grassland,fITS9/ITS4,7.6,649,5.6,14.3,5668,0,1
+53562,731,GF01011545S,Lactuca serriola,root + rhizosphere soil,41.0142,21.3353,Europe,2014,2014,grassland,fITS9/ITS4,12,597,6.6,5.2,16388,0,1
+53567,731,GF01011518S,?,root + rhizosphere soil,46.2044,14.8092,Europe,2013,2013,grassland,fITS9/ITS4,7.5,1532,5.5,22.2,12353,0,19
+54903,731,GF01011574S,Rapistrum rugosum,root + rhizosphere soil,51.98,4.915,Europe,2014,2014,grassland,fITS9/ITS4,10.3,821,6.2,9.3,4837,0,353
+55858,731,GF01011583S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,15756,0,9
+55903,731,GF01011156S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,12057,0,1
+56252,731,GF01011586S,Dittrichia graveolens,root + rhizosphere soil,46.4247,14.8253,Europe,2014,2014,grassland,fITS9/ITS4,4.2,1600,4.7,24.1,4826,0,2
+59142,731,GF01011661S,?,root + rhizosphere soil,40.9936,21.8025,Europe,2013,2013,grassland,fITS9/ITS4,5.1,815,5.5,22.4,1962,0,4
+60335,731,GF01011612S,?,root + rhizosphere soil,40.0072,21.2981,Europe,2013,2013,grassland,fITS9/ITS4,12.4,678,6.8,5.1,9151,0,1
+63128,731,GF01011634S,?,root + rhizosphere soil,52.0422,6.02083,Europe,2013,2013,grassland,fITS9/ITS4,9.7,854,4.3,20.6,2384,0,7
+63157,731,GF01011635S,?,root + rhizosphere soil,46.2531,14.9747,Europe,2013,2013,grassland,fITS9/ITS4,10.5,1041,6.5,8,626,0,17
+63333,731,GF01011638S,Centaurea jacea,root + rhizosphere soil,50.2442,8.75667,Europe,2014,2014,grassland,fITS9/ITS4,10.3,589,7,6.7,3448,0,1
+63400,731,GF01011642S,Centaurea stoebe,root + rhizosphere soil,50.1586,8.82167,Europe,2014,2014,grassland,fITS9/ITS4,10.1,768,6.5,6.3,3750,0,1
+66743,731,GF01011654S,Rapistrum rugosum,root + rhizosphere soil,40.7319,23.0086,Europe,2014,2014,grassland,fITS9/ITS4,15.7,511,7.5,3.6,276,0,13
+67707,731,GF01011628S,Rorippa sylvestris,root + rhizosphere soil,42.3786,19.2233,Europe,2014,2014,grassland,fITS9/ITS4,15.4,1684,6.3,9.5,7272,0,127
+68986,731,GF01011647S,Rapistrum rugosum,root + rhizosphere soil,45.7575,13.9867,Europe,2014,2014,grassland,fITS9/ITS4,10.6,1600,6.3,18.8,2689,0,4
+70014,731,GF01011676S,?,root + rhizosphere soil,40.6589,23.1289,Europe,2013,2013,grassland,fITS9/ITS4,15.8,544,7.4,5.8,1225,0,1
+70833,256,GF05007289S,Zea mays,root + rhizosphere soil,44.19,-96.46,North America,2017,2017,cropland,ITS3ngs1 to 5 + ITS3ngs10/ITS4ngs,6.9,632,6.5,7.1,7073,0,1
+71058,731,GF01011671S,?,root + rhizosphere soil,46.2531,14.9747,Europe,2013,2013,grassland,fITS9/ITS4,10.5,1041,6.5,8,654,0,8
+72952,731,GF01011681S,Rapistrum rugosum,root + rhizosphere soil,40.8811,23.0414,Europe,2014,2014,grassland,fITS9/ITS4,13.9,481,7,6,1893,0,1
+79129,731,GF01011696S,Rapistrum rugosum,root + rhizosphere soil,40.7503,23.0067,Europe,2014,2014,grassland,fITS9/ITS4,15.6,473,7.5,2.9,225,0,1

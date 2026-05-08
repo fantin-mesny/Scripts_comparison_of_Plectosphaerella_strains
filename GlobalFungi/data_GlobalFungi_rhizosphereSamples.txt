@@ -1,0 +1,312 @@
+id,paper,permanent_id,host,sample_type,latitude,longitude,continent,year_of_sampling_from,year_of_sampling_to,Biome,primers,MAT,MAP,pH,SOC,ITS_total,manipulated,abundances
+262,167,GF05015746S,Elaeis guineensis,rhizosphere soil,3.403,102.028,Asia,2017,2017,cropland,fITS7/ITS4,26.3,2184,4.7,2.5,52978,0,14
+365,519,GF03007733S,?,rhizosphere soil,37.8278,-0.76553,Europe,2017,2017,shrubland,ITS86F/ITS4,19.1,266,NA,NA,205923,0,38
+407,529,GF03007286S,Fraxinus rhynchophylla,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,167456,0,2
+955,529,GF03007287S,Fraxinus rhynchophylla,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,121234,0,3
+2456,519,GF03007752S,?,rhizosphere soil,37.8236,-0.97611,Europe,2017,2017,shrubland,ITS86F/ITS4,18.5,264,8.1,1.6,178062,0,19361
+3189,382,GF04008465S,Dactylis glomerata,rhizosphere soil,48.402,9.45566,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,903,6.1,18.6,75542,0,2
+3311,230,GF05010559S,Phragmites australis,rhizosphere soil,42.3089,-84.0569,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,9.3,795,6,13.4,47066,0,17
+3379,54,GF05024852S,Hevea brasiliensis,rhizosphere soil,22.1287,100.669,Asia,2015,2015,cropland,ITS3/ITS4,22.5,1007,5.7,2.4,34212,0,237
+3549,529,GF03007335S,Carpinus cordata,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,175187,0,3
+3645,382,GF04008448S,Plantago lanceolata,rhizosphere soil,48.4422,9.35722,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.5,915,6.1,16.2,75743,0,3664
+3757,160,GF05016125S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,48159,0,4276
+3819,519,GF03007739S,?,rhizosphere soil,37.8236,-0.97611,Europe,2017,2017,shrubland,ITS86F/ITS4,18.5,264,8.1,1.6,164639,0,10
+4074,171,GF05015579S,Lophozonia obliqua,rhizosphere soil,-38.6607,-72.6,South America,2020,2020,forest,ITS3/ITS4,11.6,1382,5.2,7.6,115653,0,1
+4272,547,GF03006361S,Camellia sinensis,rhizosphere soil,25.3,117.87,Asia,2015,2015,cropland,ITS3/ITS4,19.1,1518,5.8,14.6,29204,0,1
+4629,323,GF05000735S,Erigeron canadensis,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,8588,0,81
+4930,382,GF04008454S,Dactylis glomerata,rhizosphere soil,48.4395,9.42525,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.2,944,5.3,18.1,95315,0,48
+4993,528,GF03007395S,Thymus zygis,rhizosphere soil,37.007,-2.98583,Europe,2014,2014,shrubland,ITS86F/ITS4,13.2,446,7.3,2.4,175677,0,11
+5125,409,GF04005546S,?,rhizosphere soil,51.77,-1.32,Europe,2014,2014,grassland,fITS7/ITS4,9.9,707,5.8,14.1,15723,0,4
+5271,409,GF04005523S,?,rhizosphere soil,51.78,-1.32,Europe,2014,2014,grassland,fITS7/ITS4,10.1,642,6,11.2,31076,0,23
+5320,519,GF03007742S,?,rhizosphere soil,37.8278,-0.76553,Europe,2017,2017,shrubland,ITS86F/ITS4,19.1,266,NA,NA,209645,0,77
+5551,528,GF03007403S,Thymus zygis,rhizosphere soil,36.9241,-3.35483,Europe,2014,2014,shrubland,ITS86F/ITS4,13.7,498,7.3,2.4,123834,0,2
+5801,382,GF04008449S,Plantago lanceolata,rhizosphere soil,48.4044,9.51342,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.4,993,6.2,11.8,63328,0,1
+6074,643,GF02000047S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,290741,0,57
+6105,41,GF05026756S,Magnolia sinica,rhizosphere soil,23.6724,105.34,Asia,2018,2018,woodland,ITS3/ITS4,16,1230,6,11.9,45689,0,2
+6161,643,GF02000048S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,212418,0,672
+6166,160,GF05016085S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,37708,0,11
+6318,599,GF02006888S,Boehmeria nivea,rhizosphere soil,29.3667,112.6,Asia,2016,2016,cropland,fITS7/ITS4,17.8,1295,6.6,15.9,66508,0,17
+6389,643,GF02000046S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,135097,0,6
+6390,160,GF05016120S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,38031,0,54
+6424,160,GF05016088S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,24361,0,59
+6480,643,GF02000045S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,52454,0,3
+6486,54,GF05024858S,Hevea brasiliensis,rhizosphere soil,22.1287,100.669,Asia,2014,2014,cropland,ITS3/ITS4,22.5,1007,5.8,2,44972,0,272
+6547,160,GF05016121S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,46478,0,28
+6630,160,GF05016082S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,53877,0,854
+6763,160,GF05016079S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,29103,0,17
+6904,529,GF03007306S,Fraxinus rhynchophylla,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,135429,0,42
+6925,171,GF05015577S,Lophozonia obliqua,rhizosphere soil,-38.6607,-72.6,South America,2020,2020,forest,ITS3/ITS4,11.6,1382,5.2,7.6,149448,0,1
+7150,230,GF05010586S,Phragmites australis,rhizosphere soil,45.9108,-84.7383,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6,740,6.3,14.7,92888,0,55
+7266,519,GF03007745S,?,rhizosphere soil,37.8278,-0.76553,Europe,2017,2017,shrubland,ITS86F/ITS4,19.1,266,NA,NA,201764,0,3
+7402,114,GF05019987S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,49762,0,14
+7646,227,GF05010981S,Camellia yuhsienensis,rhizosphere soil,27.0333,113.333,Asia,2018,2018,forest,ITS3_KYO2/ITS4,19,1503,6.6,13,125723,0,1
+7874,230,GF05010571S,Phragmites australis,rhizosphere soil,45.6575,-84.4711,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6.3,715,6.3,15.6,39374,0,2
+8201,382,GF04008455S,Plantago lanceolata,rhizosphere soil,48.3959,9.4392,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,903,5.7,13,86221,0,805
+8268,382,GF04008453S,Dactylis glomerata,rhizosphere soil,48.4873,9.44865,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.5,1059,5.7,11.3,75024,0,44
+8864,160,GF05016084S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,45107,0,50
+8898,382,GF04008450S,Dactylis glomerata,rhizosphere soil,48.3959,9.4392,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,903,5.7,13,74423,0,204
+8976,382,GF04008451S,Plantago lanceolata,rhizosphere soil,48.378,9.435,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.9,874,5.8,16.3,95521,0,3387
+9108,382,GF04008446S,Dactylis glomerata,rhizosphere soil,48.4044,9.51342,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.4,993,6.2,11.8,66499,0,2
+9235,489,GF03009514S,Glycine max,rhizosphere soil,42.3,118.92,Asia,2015,2015,cropland,ITS3/ITS4,7.6,341,8.7,1.5,6156,0,6
+9265,171,GF05015575S,Nothofagus obliqua,rhizosphere soil,-38.6583,-72.6003,South America,2020,2020,forest,ITS3/ITS4,11.5,1407,5.1,7.7,172940,0,1
+9398,382,GF04008452S,Plantago lanceolata,rhizosphere soil,48.4013,9.45795,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,903,5.9,17.1,91260,0,502
+10337,529,GF03007321S,Fraxinus rhynchophylla,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,157120,0,28
+10532,409,GF04005525S,?,rhizosphere soil,51.77,-1.32,Europe,2014,2014,forest,fITS7/ITS4,9.9,707,5.8,14.1,19938,0,299
+11380,76,GF05023568S,Quercus ilex L. subsp. Ballota,rhizosphere soil,37.888,-3.634,Europe,2018,2018,forest,fITS7/ITS4,17,625,7.7,0.9,43772,0,17
+11484,54,GF05024887S,Hevea brasiliensis,rhizosphere soil,22.1627,100.687,Asia,2015,2015,cropland,ITS3/ITS4,23,1006,5.9,3.2,19929,0,6
+11490,528,GF03007421S,Thymus zygis,rhizosphere soil,36.9658,-3.33892,Europe,2014,2014,shrubland,ITS86F/ITS4,7.4,585,7,4.9,220418,0,383
+12158,409,GF04005528S,?,rhizosphere soil,51.77,-1.32,Europe,2014,2014,forest,fITS7/ITS4,9.9,707,5.8,14.1,18727,0,78
+12426,489,GF03009517S,Glycine max,rhizosphere soil,30.87,106.05,Asia,2015,2015,cropland,ITS3/ITS4,18.1,1008,6.8,10.5,19634,0,8
+12452,846,GF01000005S,Arabis alpina,rhizosphere soil,45.0607,6.40244,Europe,2013,2013,shrubland,ITS9/ITS4,-0.6,1003,6,19.2,42884,0,2
+12495,68,GF05024353S,Phragmites australis,rhizosphere soil,45.9372,123.627,Asia,2020,2020,wetland,ITS3/ITS4,5.3,392,8.3,5.2,21761,0,3
+12529,643,GF02000058S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,132342,0,32
+12591,519,GF03007749S,Nicotiana glauca,rhizosphere soil,37.8236,-0.97611,Europe,2017,2017,shrubland,ITS86F/ITS4,18.5,264,8.1,1.6,150947,0,1
+12618,114,GF05020014S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,13899,0,5
+12835,382,GF04008456S,Plantago lanceolata,rhizosphere soil,48.4873,9.44865,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.5,1059,5.7,11.3,81399,0,11484
+13022,230,GF05010543S,Phragmites australis,rhizosphere soil,43.6808,-83.9186,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,8.6,755,6.5,15.8,77378,0,42
+13226,230,GF05010555S,Phragmites australis,rhizosphere soil,45.7478,-84.8492,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6.2,737,NA,NA,36605,0,92
+13373,323,GF05000715S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,26208,0,40
+14257,323,GF05000706S,Artemisia annua,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,14484,0,75
+14277,160,GF05016126S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,32417,0,75
+14300,160,GF05016123S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,39485,0,1966
+14342,54,GF05024873S,Hevea brasiliensis,rhizosphere soil,22.17,100.68,Asia,2014,2014,cropland,ITS3/ITS4,22.6,1037,5.7,1.8,18564,0,18
+14483,54,GF05024853S,Hevea brasiliensis,rhizosphere soil,22.1287,100.669,Asia,2015,2015,cropland,ITS3/ITS4,22.5,1007,5.7,2.4,27967,0,20
+14954,32,GF05028106S,Musa acuminata,rhizosphere soil,28.3667,-16.8041,Africa,2018,2018,cropland,ITS1/ITS4,20.7,429,6.7,5.9,11130,0,9
+15090,382,GF04008458S,Plantago lanceolata,rhizosphere soil,48.398,9.34199,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,822,5.9,11.3,85801,0,37
+16078,382,GF04008457S,Dactylis glomerata,rhizosphere soil,48.4422,9.35722,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.5,915,6.1,16.2,77832,0,47
+16219,230,GF05010537S,Phragmites australis,rhizosphere soil,43.6808,-83.9186,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,8.6,755,6.5,15.8,35106,0,36
+16596,529,GF03007312S,Fraxinus rhynchophylla,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,138432,0,62
+17032,538,GF03006818S,Solanum tuberosum,rhizosphere soil,55.6158,49.3356,Asia,2016,2016,cropland,ITS3_KYO2/ITS4,4.3,543,5.8,13.4,231488,0,60
+17153,529,GF03007317S,Fraxinus rhynchophylla,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,167824,0,27
+17264,643,GF02000095S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,116694,0,96
+17265,643,GF02000061S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,128082,0,18
+17488,230,GF05010577S,Phragmites australis,rhizosphere soil,45.6575,-84.4711,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6.3,715,6.3,15.6,45453,0,2
+17610,382,GF04008459S,Plantago lanceolata,rhizosphere soil,48.4226,9.49212,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.6,938,6.3,9.7,86517,0,25
+17611,382,GF04008460S,Dactylis glomerata,rhizosphere soil,48.378,9.435,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.9,874,5.8,16.3,75650,0,142
+17686,529,GF03007309S,Fraxinus rhynchophylla,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,161230,0,137
+17888,410,GF04005514S,?,rhizosphere soil,45.11,5.89,Europe,2014,2014,forest,fITS7/ITS4,3.3,1554,5.1,12.2,24133,0,1
+18144,68,GF05024362S,Scirpus mucronatus,rhizosphere soil,45.9372,123.627,Asia,2021,2021,wetland,ITS3/ITS4,5.3,392,8.3,5.2,22507,0,3
+18738,160,GF05016119S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,17289,0,96
+18807,230,GF05010545S,Phragmites australis,rhizosphere soil,43.6808,-83.9186,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,8.6,755,6.5,15.8,47799,0,2
+18907,230,GF05010573S,Phragmites australis,rhizosphere soil,45.6575,-84.4711,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6.3,715,6.3,15.6,35579,0,1
+19005,382,GF04008461S,Dactylis glomerata,rhizosphere soil,48.3829,9.52144,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.6,916,6.1,15.9,68690,0,24
+19300,167,GF05015723S,Elaeis guineensis,rhizosphere soil,3.403,102.028,Asia,2017,2017,cropland,fITS7/ITS4,26.3,2184,4.7,2.5,50200,0,1
+19419,382,GF04008447S,Plantago lanceolata,rhizosphere soil,48.3829,9.52144,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.6,916,6.1,15.9,84913,0,13235
+19423,382,GF04008463S,Plantago lanceolata,rhizosphere soil,48.402,9.45566,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,903,6.1,18.6,63556,0,3
+19432,382,GF04008462S,Plantago lanceolata,rhizosphere soil,48.4395,9.42525,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.2,944,5.3,18.1,96817,0,9122
+19522,54,GF05024867S,Hevea brasiliensis,rhizosphere soil,22.17,100.68,Asia,2015,2015,cropland,ITS3/ITS4,22.6,1037,5.7,1.8,46718,0,8
+20471,409,GF04005535S,?,rhizosphere soil,51.77,-1.32,Europe,2014,2014,grassland,fITS7/ITS4,9.9,707,5.8,14.1,20890,0,4
+20472,409,GF04005533S,?,rhizosphere soil,51.77,-1.32,Europe,2014,2014,forest,fITS7/ITS4,9.9,707,5.8,14.1,10390,0,144
+20685,167,GF05015775S,Elaeis guineensis,rhizosphere soil,2.65,102.513,Asia,2017,2017,cropland,fITS7/ITS4,26.8,1838,4.8,7.2,59456,0,1
+20917,167,GF05015736S,Elaeis guineensis,rhizosphere soil,3.403,102.028,Asia,2017,2017,cropland,fITS7/ITS4,26.3,2184,4.7,2.5,61644,0,18
+21006,54,GF05024859S,Hevea brasiliensis,rhizosphere soil,22.1406,100.686,Asia,2015,2015,cropland,ITS3/ITS4,22.6,967,5.6,2.5,32057,0,18
+21391,643,GF02000043S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,240052,0,41
+21973,410,GF04005486S,?,rhizosphere soil,45.11,5.89,Europe,2014,2014,forest,fITS7/ITS4,3.3,1554,5.1,12.2,26328,0,1
+21996,382,GF04008464S,Dactylis glomerata,rhizosphere soil,48.398,9.34199,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,822,5.9,11.3,88825,0,172
+22004,382,GF04008466S,Plantago lanceolata,rhizosphere soil,48.4514,9.49105,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.3,1068,5.9,15.8,92823,0,22
+22332,643,GF02000092S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,54666,0,6
+22431,68,GF05024355S,Phragmites australis,rhizosphere soil,45.9364,123.674,Asia,2020,2020,wetland,ITS3/ITS4,5.3,395,7.4,3.4,27973,0,1
+22706,489,GF03009523S,Glycine max,rhizosphere soil,30.32,120.19,Asia,2015,2015,cropland,ITS3/ITS4,17.5,1353,6.9,13.9,44436,0,106
+23185,230,GF05010561S,Phragmites australis,rhizosphere soil,42.3089,-84.0569,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,9.3,795,6,13.4,40418,0,91
+23253,382,GF04008467S,Dactylis glomerata,rhizosphere soil,48.4013,9.45795,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.8,903,5.9,17.1,91440,0,30
+23279,68,GF05024351S,Phragmites australis,rhizosphere soil,45.8914,123.69,Asia,2020,2020,wetland,ITS3/ITS4,5.3,396,7.9,4.2,102106,0,24
+23328,382,GF04008469S,Plantago lanceolata,rhizosphere soil,48.4587,9.46002,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.7,890,5.9,9.4,71448,0,49
+23576,489,GF03009527S,Glycine max,rhizosphere soil,37.94,114.73,Asia,2015,2015,cropland,ITS3/ITS4,14.4,527,8.1,5.9,32871,0,3
+24236,114,GF05020000S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,33322,0,3
+24328,529,GF03007351S,Carpinus cordata,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,145667,0,1
+24472,643,GF02000123S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,169710,0,23
+24511,409,GF04005526S,?,rhizosphere soil,51.77,-1.32,Europe,2014,2014,grassland,fITS7/ITS4,9.9,707,5.8,14.1,29232,0,56
+24796,643,GF02000097S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,84594,0,2
+25215,409,GF04005549S,?,rhizosphere soil,51.78,-1.32,Europe,2014,2014,forest,fITS7/ITS4,10.1,642,6,11.2,8002,0,47
+25476,270,GF05005400S,Populus deltoides,rhizosphere soil,32.8667,120.817,Asia,2018,2018,forest,ITS3/ITS4,15.3,1057,6.9,10.5,68989,0,7
+25561,167,GF05015749S,Elaeis guineensis,rhizosphere soil,3.403,102.028,Asia,2017,2017,cropland,fITS7/ITS4,26.3,2184,4.7,2.5,48328,0,1
+26161,382,GF04008468S,Dactylis glomerata,rhizosphere soil,48.4514,9.49105,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.3,1068,5.9,15.8,63739,0,4
+26313,643,GF02000103S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,167157,0,6
+26431,547,GF03006365S,Camellia sinensis,rhizosphere soil,25.3,117.87,Asia,2015,2015,cropland,ITS3/ITS4,19.1,1518,5.8,14.6,37638,0,2
+26488,160,GF05016124S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,20919,0,274
+26821,409,GF04005538S,?,rhizosphere soil,51.78,-1.33,Europe,2014,2014,forest,fITS7/ITS4,10,698,5.6,12.7,25309,0,80
+27351,382,GF04008471S,Dactylis glomerata,rhizosphere soil,48.4226,9.49212,Europe,2015,2015,grassland,ITS1F/ITS4 then fITS7/ITS4,7.6,938,6.3,9.7,81240,0,9
+27450,230,GF05010584S,Phragmites australis,rhizosphere soil,45.9108,-84.7383,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6,740,6.3,14.7,50371,0,15
+27616,41,GF05026753S,Magnolia sinica,rhizosphere soil,23.6724,105.34,Asia,2018,2018,woodland,ITS3/ITS4,16,1230,6,11.9,53361,0,1
+27782,114,GF05019977S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,23588,0,12
+28154,76,GF05023578S,Olea europaea,rhizosphere soil,37.887,-3.634,Europe,2018,2018,cropland,fITS7/ITS4,17,625,7.7,0.9,40952,0,1
+28183,76,GF05023572S,Olea europaea,rhizosphere soil,37.887,-3.634,Europe,2018,2018,cropland,fITS7/ITS4,17,625,7.7,0.9,45552,0,5
+28208,76,GF05023577S,Olea europaea,rhizosphere soil,37.887,-3.634,Europe,2018,2018,cropland,fITS7/ITS4,17,625,7.7,0.9,38234,0,1
+28660,323,GF05000700S,Humulus japonicus,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,18199,0,32
+28771,323,GF05000705S,Artemisia annua,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,13995,0,29
+29156,160,GF05016128S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,20408,0,897
+29290,409,GF04005540S,Avena sativa,rhizosphere soil,51.78,-1.32,Europe,2014,2014,cropland,fITS7/ITS4,10.1,642,6,11.2,21101,0,6
+29805,529,GF03007354S,Carpinus cordata,rhizosphere soil,38.0321,128.463,Asia,2018,2018,forest,ITS3/ITS4,8.1,1382,5.4,22.6,54240,0,1
+30191,705,GF01013454S,?,rhizosphere soil,35.1278,113.766,Asia,2017,2017,cropland,ITS3_KYO2/ITS4,15,586,8.1,6.7,33412,0,5
+30568,323,GF05000721S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,29224,0,60
+30658,49,GF05026310S,Juniperus communis,rhizosphere soil,45.1,5.89,Europe,2018,2018,forest,ITS3/ITS4,4.4,1407,5.4,17.9,10393,0,1
+30847,68,GF05024347S,Scirpus mucronatus,rhizosphere soil,45.9364,123.674,Asia,2020,2020,wetland,ITS3/ITS4,5.3,395,7.4,3.4,23496,0,16
+30859,230,GF05010592S,Phragmites australis,rhizosphere soil,45.9128,-84.8722,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,5.9,762,5.7,21.1,45898,0,68
+31020,114,GF05019988S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,41438,0,46
+31049,114,GF05019976S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,28762,0,36
+31079,323,GF05000723S,Bidens pilosa,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,9701,0,1
+31149,489,GF03009541S,Glycine max,rhizosphere soil,28.21,116.49,Asia,2015,2015,cropland,ITS3/ITS4,19,1638,5.8,9.5,70504,0,15
+31179,489,GF03009545S,Glycine max,rhizosphere soil,28.2,113.09,Asia,2015,2015,cropland,ITS3/ITS4,18.4,1373,6.1,15.6,22001,0,4
+31308,323,GF05000716S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,7801,0,2
+31373,68,GF05024354S,Phragmites australis,rhizosphere soil,45.9372,123.627,Asia,2020,2020,wetland,ITS3/ITS4,5.3,392,8.3,5.2,33873,0,2
+31425,323,GF05000739S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,7128,0,4
+31493,114,GF05020032S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,33117,0,34
+31585,167,GF05015726S,Elaeis guineensis,rhizosphere soil,3.403,102.028,Asia,2017,2017,cropland,fITS7/ITS4,26.3,2184,4.7,2.5,56851,0,8
+31670,160,GF05016081S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,33868,0,1315
+31735,489,GF03009566S,Glycine max,rhizosphere soil,26.65,106.63,Asia,2015,2015,cropland,ITS3/ITS4,14.7,1252,6.1,12.6,54439,0,209
+31772,323,GF05000733S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,6708,0,106
+31773,323,GF05000729S,Alternanthera philoxeroides,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,12104,0,207
+31777,160,GF05016087S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,9318,0,26
+32152,114,GF05019952S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,11343,0,4
+32321,114,GF05020024S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,8961,0,32
+32322,114,GF05019961S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,28159,0,30
+32323,114,GF05019975S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,15024,0,8
+32340,114,GF05019990S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,22610,0,9
+32516,643,GF02000115S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,139460,0,323
+32589,114,GF05019960S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,19958,0,8
+32662,409,GF04005522S,?,rhizosphere soil,51.77,-1.32,Europe,2014,2014,grassland,fITS7/ITS4,9.9,707,5.8,14.1,21391,0,1
+32733,54,GF05024869S,Hevea brasiliensis,rhizosphere soil,22.17,100.68,Asia,2015,2015,cropland,ITS3/ITS4,22.6,1037,5.7,1.8,38664,0,10
+32745,76,GF05023566S,Quercus ilex L. subsp. Ballota,rhizosphere soil,37.888,-3.634,Europe,2018,2018,forest,fITS7/ITS4,17,625,7.7,0.9,48108,0,1
+32985,323,GF05000731S,Alternanthera philoxeroides,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,4148,0,15
+32986,489,GF03009611S,Glycine max,rhizosphere soil,30.67,108.24,Asia,2015,2015,cropland,ITS3/ITS4,17.7,1236,6.6,12.1,13087,0,16
+32987,323,GF05000703S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,16575,0,4
+33450,323,GF05000704S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,19780,0,17
+34523,643,GF02000128S,Populus trichocarpa x deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,44585,0,17
+34552,160,GF05016127S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,40519,0,1472
+34718,114,GF05020015S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,61098,0,67
+35119,643,GF02000127S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,87079,0,23
+35121,323,GF05000736S,Erigeron canadensis,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,7816,0,108
+35376,530,GF03007232S,Picea abies,rhizosphere soil,49.325,16.7872,Europe,2014,2014,forest,gITS7/ITS4,8,601,4.8,13,10037,0,1
+35957,409,GF04005542S,Avena sativa,rhizosphere soil,51.78,-1.32,Europe,2014,2014,cropland,fITS7/ITS4,10.1,642,6,11.2,22245,0,19
+36119,230,GF05010553S,Phragmites australis,rhizosphere soil,45.7478,-84.8492,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6.2,737,NA,NA,27425,0,1
+36394,54,GF05024855S,Hevea brasiliensis,rhizosphere soil,22.1287,100.669,Asia,2015,2015,cropland,ITS3/ITS4,22.5,1007,5.8,2,11829,0,2
+36654,489,GF03009569S,Glycine max,rhizosphere soil,24.88,118.49,Asia,2015,2015,cropland,ITS3/ITS4,21.8,1127,5.9,11.3,21942,0,1
+37006,489,GF03009558S,Glycine max,rhizosphere soil,28.52,115.95,Asia,2015,2015,cropland,ITS3/ITS4,18.6,1686,5.7,14.4,68399,0,5
+37237,114,GF05020002S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,21835,0,4
+37666,41,GF05026751S,Magnolia sinica,rhizosphere soil,23.6724,105.34,Asia,2018,2018,woodland,ITS3/ITS4,16,1230,6,11.9,46389,0,11
+37779,819,GF01004939S,Triticum aestivum,rhizosphere soil,36.9843,117.676,Asia,2015,2015,cropland,ITS3/ITS4,13.6,643,7.7,8.1,48479,0,2
+37802,230,GF05010575S,Phragmites australis,rhizosphere soil,45.6575,-84.4711,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,6.3,715,6.3,15.6,36158,0,3
+38004,489,GF03009562S,Glycine max,rhizosphere soil,28.37,97.21,Asia,2015,2015,cropland,ITS3/ITS4,7.6,845,5.7,19.8,21249,0,83
+38189,270,GF05005399S,Populous deltoids,rhizosphere soil,32.8667,120.817,Asia,2018,2018,forest,ITS3/ITS4,15.3,1057,6.9,10.5,61895,0,13
+38232,54,GF05024861S,Hevea brasiliensis,rhizosphere soil,22.1406,100.685,Asia,2015,2015,cropland,ITS3/ITS4,22.6,967,5.6,2.5,21152,0,3
+38579,530,GF03007235S,Fagus sylvatica,rhizosphere soil,49.2732,16.6554,Europe,2014,2014,forest,gITS7/ITS4,9,514,5.2,13.2,9805,0,2
+38724,323,GF05000738S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,13768,0,1
+39235,489,GF03009567S,Glycine max,rhizosphere soil,37.87,102.79,Asia,2015,2015,cropland,ITS3/ITS4,8.7,169,8.3,0,8801,0,10
+39325,323,GF05000737S,Erigeron canadensis,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,7480,0,12
+39628,167,GF05015732S,Elaeis guineensis,rhizosphere soil,3.403,102.028,Asia,2017,2017,cropland,fITS7/ITS4,26.3,2184,4.7,2.5,48516,0,5
+39633,167,GF05015779S,Elaeis guineensis,rhizosphere soil,2.65,102.513,Asia,2017,2017,cropland,fITS7/ITS4,26.8,1838,4.8,7.2,53955,0,51
+39639,167,GF05015742S,Elaeis guineensis,rhizosphere soil,3.403,102.028,Asia,2017,2017,cropland,fITS7/ITS4,26.3,2184,4.7,2.5,47964,0,6
+39910,68,GF05024352S,Phragmites australis,rhizosphere soil,45.9364,123.674,Asia,2020,2020,wetland,ITS3/ITS4,5.3,395,7.4,3.4,58479,0,2
+40727,323,GF05000710S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,19780,0,184
+40730,323,GF05000740S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,14295,0,14
+40946,114,GF05019962S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,31136,0,2
+41260,114,GF05019966S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,2439,0,1
+41489,114,GF05019996S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,6144,0,1
+41649,114,GF05019995S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,32852,0,6
+41911,68,GF05024348S,Scirpus mucronatus,rhizosphere soil,45.9364,123.674,Asia,2020,2020,wetland,ITS3/ITS4,5.3,395,7.4,3.4,12080,0,2
+42507,819,GF01004940S,Triticum aestivum,rhizosphere soil,33.2211,115.506,Asia,2015,2015,cropland,ITS3/ITS4,15.7,862,8.1,6.6,58941,0,8
+42651,270,GF05005408S,Populus deltoides,rhizosphere soil,32.8667,120.817,Asia,2018,2018,forest,ITS3/ITS4,15.3,1057,6.9,10.5,43934,0,17
+42709,160,GF05016083S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,23204,0,41
+42820,649,GF01019541S,Glycine max,rhizosphere soil,30.3201,120.189,Asia,2015,2015,cropland,ITS3/ITS4,17.5,1353,6.9,13.4,28266,0,1
+43166,114,GF05019986S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,17778,0,20
+43277,114,GF05019954S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,21509,0,119
+43435,819,GF01004950S,Triticum aestivum,rhizosphere soil,32.58,111.935,Asia,2015,2015,cropland,ITS3/ITS4,16.2,850,7.3,6.4,28394,0,1
+43478,114,GF05019992S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,24636,0,24
+43479,114,GF05019957S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,17553,0,21
+43605,489,GF03009563S,Glycine max,rhizosphere soil,36.17,103.27,Asia,2015,2015,cropland,ITS3/ITS4,9.3,275,8.2,0.5,42845,0,52
+44397,323,GF05000702S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,29647,0,26
+44547,643,GF02000085S,Populus deltoides,rhizosphere soil,35.84,-83.96,North America,2014,2014,forest,ITS3/ITS4,14.9,1192,5.7,5.7,28742,0,8
+45201,489,GF03009575S,Glycine max,rhizosphere soil,43.93,125.24,Asia,2015,2015,cropland,ITS3/ITS4,5.8,574,6.9,3.5,4892,0,1
+45984,230,GF05010598S,Phragmites australis,rhizosphere soil,45.9128,-84.8722,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,5.9,762,5.7,21.1,45546,0,11
+46054,68,GF05024370S,Phragmites australis,rhizosphere soil,45.9372,123.627,Asia,2021,2021,wetland,ITS3/ITS4,5.3,392,8.3,5.2,7930,0,2
+46400,323,GF05000732S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,14003,0,166
+46404,41,GF05026754S,Magnolia sinica,rhizosphere soil,23.6724,105.34,Asia,2018,2018,woodland,ITS3/ITS4,16,1230,6,11.9,61928,0,3
+46438,114,GF05020003S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,17207,0,2
+46843,409,GF04005529S,?,rhizosphere soil,51.78,-1.33,Europe,2014,2014,forest,fITS7/ITS4,10,698,5.6,12.7,19067,0,244
+47215,489,GF03009557S,Glycine max,rhizosphere soil,29.17,105.82,Asia,2015,2015,cropland,ITS3/ITS4,18.2,1125,6.6,12.5,21250,0,162
+47499,114,GF05020017S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,17037,0,1
+47799,32,GF05028109S,?,rhizosphere soil,28.3672,-16.807,Africa,2018,2018,cropland,ITS1/ITS4,20.7,429,6.8,6.3,35935,0,5
+47876,819,GF01004943S,Triticum aestivum,rhizosphere soil,36.6186,119.938,Asia,2015,2015,cropland,ITS3/ITS4,13.1,686,7.3,6.7,46724,0,1
+48275,489,GF03009571S,Glycine max,rhizosphere soil,34.28,117.3,Asia,2015,2015,cropland,ITS3/ITS4,14.7,860,7.7,12.3,41859,0,13
+48380,323,GF05000717S,Aster indicus,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,22596,0,11
+48386,323,GF05000744S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,22976,0,5
+48964,819,GF01004951S,Triticum aestivum,rhizosphere soil,33.2935,115.507,Asia,2015,2015,cropland,ITS3/ITS4,15.6,849,8.1,7.2,57233,0,1
+49282,323,GF05000745S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,15255,0,20
+49626,49,GF05026333S,Vaccinium myrtillus,rhizosphere soil,45.11,5.9,Europe,2018,2018,forest,ITS3/ITS4,3.4,1372,5.3,15.4,11822,0,1
+49773,54,GF05024868S,Hevea brasiliensis,rhizosphere soil,22.17,100.68,Asia,2015,2015,cropland,ITS3/ITS4,22.6,1037,5.7,1.8,9127,0,19
+50011,323,GF05000746S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,18184,0,1
+50092,323,GF05000699S,Humulus japonicus,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,11770,0,15
+50855,114,GF05019978S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,22996,0,13
+51214,323,GF05000724S,Bidens pilosa,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,6685,0,2
+51217,489,GF03009606S,Glycine max,rhizosphere soil,38.27,106.19,Asia,2015,2015,cropland,ITS3/ITS4,10.5,202,8.6,0.8,11366,0,8
+51221,323,GF05000707S,Artemisia annua,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,19398,0,975
+51230,489,GF03009580S,Glycine max,rhizosphere soil,37.42,121.21,Asia,2015,2015,cropland,ITS3/ITS4,12.6,577,6.9,13.6,6656,0,2
+51247,114,GF05019972S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,25622,0,4
+51413,323,GF05000722S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,15648,0,14
+51418,114,GF05019984S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,31128,0,22
+51655,489,GF03009585S,Glycine max,rhizosphere soil,41.16,121.16,Asia,2015,2015,cropland,ITS3/ITS4,10.2,536,8,6,31965,0,3
+51728,68,GF05024363S,Scirpus mucronatus,rhizosphere soil,45.9372,123.627,Asia,2021,2021,wetland,ITS3/ITS4,5.3,392,8.3,5.2,9940,0,1
+51737,114,GF05019994S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,16724,0,6
+51738,114,GF05020021S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,5287,0,3
+52075,68,GF05024344S,Scirpus mucronatus,rhizosphere soil,45.8914,123.69,Asia,2020,2020,wetland,ITS3/ITS4,5.3,396,7.9,4.2,18594,0,2
+52081,114,GF05020034S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,34629,0,132
+52253,323,GF05000730S,Alternanthera philoxeroides,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,15777,0,25
+52254,489,GF03009554S,Glycine max,rhizosphere soil,40.82,117.93,Asia,2015,2015,cropland,ITS3/ITS4,9.5,519,7.7,2.9,4188,0,1
+52273,323,GF05000709S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,15024,0,36
+52283,489,GF03009594S,Glycine max,rhizosphere soil,36.71,117.08,Asia,2015,2015,cropland,ITS3/ITS4,13.8,638,8,4.2,3683,0,3
+52289,649,GF01019533S,Glycine max,rhizosphere soil,28.3725,97.2126,Asia,2015,2015,cropland,ITS3/ITS4,7.6,679,5.7,19.2,6926,0,1
+52347,323,GF05000734S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,11482,0,15
+52452,489,GF03009589S,Glycine max,rhizosphere soil,37.45,105.64,Asia,2015,2015,cropland,ITS3/ITS4,10.7,196,8.3,0.5,2215,0,2
+52516,114,GF05020006S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,7977,0,6
+52573,323,GF05000720S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,22343,0,5
+52578,489,GF03009602S,Glycine max,rhizosphere soil,27.37,114.69,Asia,2015,2015,cropland,ITS3/ITS4,19,1405,6.4,9,37851,0,7
+52627,323,GF05000726S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,18140,0,104
+52638,114,GF05019964S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,28572,0,11
+52668,114,GF05019958S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,17050,0,11
+52713,819,GF01004979S,Triticum aestivum,rhizosphere soil,37.7664,114.831,Asia,2015,2015,cropland,ITS3/ITS4,14.5,515,8,5.6,58331,0,2
+52731,114,GF05019979S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,5770,0,1
+52777,32,GF05028111S,?,rhizosphere soil,28.3672,-16.807,Africa,2018,2018,cropland,ITS1/ITS4,20.7,429,6.8,6.3,12646,0,7
+52884,160,GF05016080S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,5044,0,59
+52889,489,GF03009613S,Glycine max,rhizosphere soil,25.85,112.33,Asia,2015,2015,cropland,ITS3/ITS4,19,1432,6.7,12.5,3283,0,6
+52907,489,GF03009592S,Glycine max,rhizosphere soil,50.25,127.46,Asia,2015,2015,cropland,ITS3/ITS4,0.9,527,6.5,4.9,4726,0,2
+52981,323,GF05000708S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,18905,0,68
+52994,114,GF05019969S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,4267,0,1
+52995,489,GF03009609S,Glycine max,rhizosphere soil,37.69,112.53,Asia,2015,2015,cropland,ITS3/ITS4,11,445,8.1,1.7,701,0,2
+53030,489,GF03009598S,Glycine max,rhizosphere soil,34.29,108.07,Asia,2015,2015,cropland,ITS3/ITS4,14.7,734,8,8.1,1412,0,1
+53063,114,GF05020023S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,3720,0,1
+53094,489,GF03009588S,Glycine max,rhizosphere soil,29.23,104.9,Asia,2015,2015,cropland,ITS3/ITS4,18.2,1047,6.6,10.2,1370,0,3
+53127,489,GF03009607S,Glycine max,rhizosphere soil,40.77,111.67,Asia,2015,2015,cropland,ITS3/ITS4,7.4,380,8.5,0.9,9557,0,8
+53158,32,GF05028108S,?,rhizosphere soil,28.3667,-16.8041,Africa,2018,2018,cropland,ITS1/ITS4,20.7,429,6.7,5.9,12328,0,12
+53161,114,GF05020027S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,51217,0,270
+53196,114,GF05020025S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,19009,0,58
+53206,489,GF03009603S,Glycine max,rhizosphere soil,35.01,113.69,Asia,2015,2015,cropland,ITS3/ITS4,15.1,588,8.2,6.3,11034,0,1
+53269,114,GF05020035S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,22820,0,14
+53337,489,GF03009576S,Glycine max,rhizosphere soil,25.36,103.11,Asia,2015,2015,cropland,ITS3/ITS4,15.5,945,6.4,10.4,15673,0,4
+53338,68,GF05024356S,Phragmites australis,rhizosphere soil,45.9372,123.627,Asia,2020,2020,wetland,ITS3/ITS4,5.3,392,8.3,5.2,21021,0,2
+53499,114,GF05020011S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,1184,0,1
+53565,489,GF03009595S,Glycine max,rhizosphere soil,38.85,106.53,Asia,2015,2015,cropland,ITS3/ITS4,10,184,8.6,1.6,3918,0,7
+53711,114,GF05019955S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,25145,0,1
+53797,160,GF05016122S,Nicotiana tabacum,rhizosphere soil,25.7886,112.621,Asia,2016,2016,cropland,5.8S_Fun/ITS4_Fun,19,1533,6.4,12.6,24476,0,69
+54183,68,GF05024361S,Scirpus mucronatus,rhizosphere soil,45.9364,123.674,Asia,2021,2021,wetland,ITS3/ITS4,5.3,395,7.4,3.4,11822,0,3
+55432,114,GF05020030S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,18777,0,17
+55803,114,GF05019959S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,12036,0,5
+57378,230,GF05010557S,Phragmites australis,rhizosphere soil,42.3089,-84.0569,North America,2016,2016,wetland,5.8S_Fun/ITS4_Fun,9.3,795,6,13.4,25815,0,4
+58870,323,GF05000742S,Trifolium repens,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,9720,0,6
+58871,323,GF05000719S,Aster indicus,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,30310,0,20
+58947,323,GF05000741S,Trifolium repens,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,15249,0,6
+59918,114,GF05019967S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,30123,0,178
+60110,846,GF01000014S,Arabis alpina,rhizosphere soil,45.0607,6.40244,Europe,2014,2014,shrubland,ITS9/ITS4,-0.6,1003,6,19.2,15011,0,1
+60853,114,GF05019956S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,9533,0,5
+61082,323,GF05000713S,Mosla scabra,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,28488,0,3
+61633,114,GF05019953S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,13048,0,2
+61933,114,GF05019949S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,4308,0,5
+62368,323,GF05000727S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,11848,0,8
+63092,68,GF05024368S,Phragmites australis,rhizosphere soil,45.8914,123.69,Asia,2021,2021,wetland,ITS3/ITS4,5.3,396,7.9,4.2,1280,0,2
+63208,114,GF05019968S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,11378,0,1
+64669,323,GF05000728S,?,rhizosphere soil,29.06,121.68,Asia,2016,2016,grassland,ITS3/ITS4,18,1509,NA,NA,4408,0,11
+65408,114,GF05019985S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,4423,0,1
+65813,114,GF05020018S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,4842,0,2
+66061,114,GF05019989S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,2223,0,2
+69374,114,GF05020001S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,8675,0,4
+69445,114,GF05020010S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,8929,0,12
+77356,114,GF05019981S,?,rhizosphere soil,52.0425,5.77472,Europe,2012,2012,grassland,ITS9/ITS4,10,832,4.6,18.4,144,0,1

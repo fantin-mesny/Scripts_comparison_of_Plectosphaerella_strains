@@ -1,0 +1,8 @@
+library(multcompView)
+df<-read.csv('data_hedges.csv')
+L<-lm('Hedges..g~PhyloGroup+HostGroup',data=df)
+shapiro.test(residuals(L))
+summary(aov(L))
+tukey<-TukeyHSD(aov(L))
+print(tukey)
+multcompLetters2(tukey)

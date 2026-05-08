@@ -1,0 +1,74 @@
+Fungus,PhyloGroup,HostGroup,Continent of isolation
+P34,subsp1,Fabaceae,North America
+P39,subsp1,Cucurbitaceae,North America
+P17,subsp1,Not plant-isolated,Europe
+P455,subsp1,Brassicaceae,Europe
+P11,subsp2,Monocots,Europe
+P33,subsp1,Fabaceae,North America
+P15,subsp1,Other dicots,Europe
+P10,subsp2,Other dicots,Europe
+P46,subsp2,Unknown,Europe
+P55,subsp2,Cucurbitaceae,Asia
+P56,subsp2,Solanaceae,Asia
+P57,subsp2,Cucurbitaceae,Asia
+P7,subsp2,Cucurbitaceae,Europe
+P9,subsp2,Other dicots,North America
+P8,subsp2,Not plant-isolated,Europe
+P340,subsp1,Brassicaceae,Europe
+P19,subsp1,Brassicaceae,Europe
+P42,subsp1,Marchantiaceae,North America
+P3,subsp2,Solanaceae,Europe
+P62,subsp2,Cucurbitaceae,Asia
+P23,notInSubsp,Not plant-isolated,North America
+P38,subsp1,Cucurbitaceae,North America
+P6,subsp1,Other dicots,Africa
+P35,subsp1,Cucurbitaceae,North America
+P58,subsp2,Brassicaceae,Asia
+P13,subsp2,Other dicots,Europe
+P2,subsp2,Other dicots,Europe
+P36,subsp1,Cucurbitaceae,North America
+P612,subsp1,Brassicaceae,Europe
+P25,subsp1,Brassicaceae,Europe
+P27,subsp1,Brassicaceae,Europe
+P1,subsp2,Not plant-isolated,Europe
+P24,subsp1,Brassicaceae,Europe
+P52,subsp1,Not plant-isolated,Unknown
+P49,notInSubsp,Other dicots,Oceania
+P59,subsp2,Brassicaceae,Asia
+P14,subsp1,Other dicots,Europe
+P26,subsp1,Brassicaceae,Europe
+P28,subsp1,Brassicaceae,Europe
+P63,subsp1,Brassicaceae,Asia
+P67,subsp2,Other dicots,Asia
+P4,subsp1,Other dicots,North America
+P16,subsp1,Brassicaceae,Europe
+P5,subsp1,Solanaceae,North America
+P51,subsp1,Not plant-isolated,Unknown
+P60,subsp2,Brassicaceae,Asia
+P68,subsp1,Brassicaceae,Europe
+P18,subsp1,Brassicaceae,Europe
+P143,subsp1,Brassicaceae,Europe
+P50,subsp2,Monocots,Oceania
+P12,subsp2,Other dicots,Europe
+P43,subsp1,Brassicaceae,Europe
+P21,subsp2,Solanaceae,Europe
+P20,subsp2,Rosaceae,Europe
+P47,notInSubsp,Other dicots,Europe
+P31,subsp2,Other dicots,North America
+P421,subsp1,Brassicaceae,Europe
+P54,subsp2,Other dicots,Asia
+P61,subsp1,Rosaceae,Asia
+P44,subsp1,Other dicots,Europe
+P32,subsp1,Fabaceae,North America
+P65,subsp2,Brassicaceae,Asia
+P45,subsp1,Monocots,Europe
+P29,subsp1,Brassicaceae,Europe
+P41,subsp1,Other dicots,Europe
+P30,P. plurivora,Not plant-isolated,North America
+P40,notInSubsp,Not plant-isolated,Europe
+P22,subsp2,Rosaceae,North America
+P117,P. plurivora,Brassicaceae,Europe
+P66,subsp1,Solanaceae,Asia
+P48,subsp1,Solanaceae,Oceania
+MOCK,subsp2,,
+P64,P. delsorboi,Monocots,Asia
